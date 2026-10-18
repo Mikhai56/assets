@@ -1,13 +1,12 @@
 {
     "name": "UTYABSWAP",
     "website": "https://www.utyabswap.com/",
-    "description": "JetTon.Games Platform Token",
     "explorer": "https://tonscan.org/ru/jetton/EQAw63ZqLmnwRA77PW07CWIEngwg-eIiysaqZ8IWpUL0nP7a",
     "type": "JETTON",
     "symbol": "UTYAB",
     "decimals": 9,
     "status": "active",
-    "id": "EQAw63ZqLmnwRA77PW07CWIEngwg-eIiysaqZ8IWpUL0nP7a",
+    "id": "EQAw63ZqLmnwRA77y4yzC17wYKD9A0guwPkMs1gOsM__NOT",
     "links": [
         {
             "name": "x",
